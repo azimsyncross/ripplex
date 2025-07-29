@@ -20,6 +20,10 @@ const Header = () => {
     { to: "/services", label: "Services" },
     // { to: "/team", label: "Team" },
     { to: "/contact", label: "Contact" },
+    { to:"/privacy-policy", label:"Privacy Policy"},
+    { to:"/terms-of-services", label:"Terms of Services"},
+    { to:"/refunds-policy", label:"Refunds Policy"},
+    
   ];
 
   return (
